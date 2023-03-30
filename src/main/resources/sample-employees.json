@@ -1,0 +1,28 @@
+[{
+  "name": "Daniel Craig",
+  "email": "daniel@gmail.com",
+  "jobTitle": "JavaScript",
+  "phoneNumber": "4560010020",
+  "imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png"
+},
+{
+  "name": "Christine Smith",
+  "email": "christine@gmail.com",
+  "jobTitle": "UX/UI",
+  "phoneNumber": "4569010032",
+  "imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png"
+},
+{
+  "name": "Dave Rogers",
+  "email": "dave@gmail.com",
+  "jobTitle": "Java",
+  "phoneNumber": "4560670028",
+  "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png"
+},
+{
+  "name": "Josh Wayne",
+  "email": "josh@gmail.com",
+  "jobTitle": "Angular",
+  "phoneNumber": "4560765089",
+  "imageUrl": "https://bootdey.com/img/Content/avatar/avatar5.png"
+}]
